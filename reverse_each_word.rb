@@ -1,6 +1,6 @@
 sentence = "Hello there, and how are you?"
 
-def reverse_each_word(sentence)
+def reverse_each_word(sentence1)
   new_sentence = []
   word_array = sentence.split.each do |backward_words|
     new_sentence << backward_words.reverse
